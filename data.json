@@ -1,0 +1,140 @@
+{
+  "classes": [
+    {
+      "class_name": "Class 1",
+      "subjects": [
+        {
+          "subject_name": "English",
+          "chapters": [
+            {
+              "chapter_number": "Ch1 part1",
+              "chapter_name": "A Happy Child",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/f32f397b-0c59-4c4b-afe3-9bd0abfcc580",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
+            },
+            {
+              "chapter_number": "Ch1 part 2",
+              "chapter_name": "Three Little Pigs",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/f32f397b-0c59-4c4b-afe3-9bd0abfcc580",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
+            },
+            {
+              "chapter_number": "Ch2 part1",
+              "chapter_name": "After a Bath",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/f32f397b-0c59-4c4b-afe3-9bd0abfcc580",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
+            },
+            {
+              "chapter_number": "Ch2 part2",
+              "chapter_name": "The Bubble, the Straw and the Shoe",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/f32f397b-0c59-4c4b-afe3-9bd0abfcc580",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
+            },
+            {
+              "chapter_number": "Ch3 part1",
+              "chapter_name": "One Little Kitten",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/f32f397b-0c59-4c4b-afe3-9bd0abfcc580",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
+            },
+            {
+              "chapter_number": "Ch3 part2",
+              "chapter_name": "Lallu and Pellu",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/f32f397b-0c59-4c4b-afe3-9bd0abfcc580",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
+            }
+          ]
+        },
+        {
+          "subject_name": "Hindi",
+          "chapters": [
+            {
+              "chapter_number": "Ch1",
+              "chapter_name": "झूला",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/50a18982-3a93-44b7-853d-1655e616cb76",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
+            },
+            {
+              "chapter_number": "Ch2",
+              "chapter_name": "आम की कहानी",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/50a18982-3a93-44b7-853d-1655e616cb76",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
+            }
+          ]
+        },
+        {
+          "subject_name": "Maths",
+          "chapters": [
+            {
+              "chapter_number": "ch1",
+              "chapter_name": "Shapes and Spaces",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/77869fba-8ae0-4acb-83bd-f7910ec0bcae",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
+            },
+            {
+              "chapter_number": "ch2",
+              "chapter_name": "Numbers from One to Nine",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/77869fba-8ae0-4acb-83bd-f7910ec0bcae",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class_name": "Class 2",
+      "subjects": [
+        {
+          "subject_name": "English",
+          "chapters": [
+            {
+              "chapter_number": "Ch1 part1",
+              "chapter_name": "FIRST DAY AT SCHOOL",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/f32f397b-0c59-4c4b-afe3-9bd0abfcc580",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
+            },
+            {
+              "chapter_number": "Ch1 part2",
+              "chapter_name": "HALDI'S ADVENTURE",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/f32f397b-0c59-4c4b-afe3-9bd0abfcc580",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
+            }
+          ]
+        },
+        {
+          "subject_name": "Maths",
+          "chapters": [
+            {
+              "chapter_number": "Ch1",
+              "chapter_name": "What is long, what is round?",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/77869fba-8ae0-4acb-83bd-f7910ec0bcae",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
+            },
+            {
+              "chapter_number": "Ch2",
+              "chapter_name": "Counting in Groups",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/77869fba-8ae0-4acb-83bd-f7910ec0bcae",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
+            }
+          ]
+        },
+        {
+          "subject_name": "Hindi",
+          "chapters": [
+            {
+              "chapter_number": "Ch1",
+              "chapter_name": "ऊँट चला",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/50a18982-3a93-44b7-853d-1655e616cb76",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
+            },
+            {
+              "chapter_number": "Ch2",
+              "chapter_name": "भालू ने खेली फुटबॉल",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/50a18982-3a93-44b7-853d-1655e616cb76",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
